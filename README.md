@@ -24,3 +24,5 @@ Why is it Useful:
     Peer Evaluation: The project promotes peer evaluation, as students are encouraged to create test programs and review each other's work. This peer-driven approach helps students learn from one another and defend their projects during evaluations.
 
 Overall, the "Libft" project is an essential first step in a student's journey at 42, providing them with a strong foundation in C programming and coding standards. It equips them with valuable tools and practices that will be applied in their future assignments and projects.
+
+![First Week](<iframe src="https://giphy.com/embed/f1UH5LwVuWucM" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pc-virus-ransomware-f1UH5LwVuWucM">via GIPHY</a></p>)
